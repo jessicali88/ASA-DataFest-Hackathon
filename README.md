@@ -1,5 +1,7 @@
 # ASA-DataFest-Hackathon
-This is my submission for the American Statistical Association (ASA) DataFest in 2024. This year, we analyzed data from CourseKata, an online learning platform that teaches introductory statistics and data science. I worked with a team of 5.
+This is my submission for DataFest in 2024. I worked with a team of 4 to analyze 6 datasets with over 1 million rows of data. We analyzed data from CourseKata, an online learning platform that teaches statistics and data science. Our goal was to discover insights and make suggestions to CourseKata to enhance the student experience of learning statistics. My team focused on chapters that included videos to see if they improved the end of chapter quiz scores and what other factors could have contributed, such as idle time and proportion of video watched.
+
+My team won the Judges' Choice Award with this submission.  
 
 Below is the official description of DataFest as provided on: https://data-analytics.osu.edu/datafest/about
 
